@@ -18,7 +18,7 @@ from telegram.ext import (
     filters,
 )
 
-BOT_TOKEN = '7886254355:AAGhyMXCoaU61FX95cbWoywl7s8rZTR0GsY'
+BOT_TOKEN = 'ADD YOUR BOT TOKEN HERE'
 
 COUNTRY_FLAGS = {
     "FRANCE": "🇫🇷", "UNITED STATES": "🇺🇸", "BRAZIL": "🇧🇷", "NAMIBIA": "🇳🇦",
